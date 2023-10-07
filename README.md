@@ -37,7 +37,7 @@ Most common mistakes are not installing Forge correctly, or placing the mods fol
 
 That should be all.
 --------------------------------
-
+https://www.planetminecraft.com/mod/ruby-resource/
 
 All credit given to CJ Gladish (c)
 See License in Repo for more Legal information.
